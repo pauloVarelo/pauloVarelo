@@ -19,7 +19,7 @@
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" 
- src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_200_200/0/1627613843146?e=1664409600&v=beta&t=-xy2SEemHbszFDl8AZQfGIrkFF7VhUkpQS2eJ4KBYmQ)">
+ src="https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_800_800/0/1627613843146?e=1664409600&v=beta&t=xdiSoKtpfaKImoKaibwikzFpJQPAx14M1ouPASUOuXA">
  
    ##
  
