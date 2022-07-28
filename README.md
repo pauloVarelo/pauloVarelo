@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @GGgigigante
-- 👀 I’m interested in  a vacancy in the Information Systems area
-- 🌱 I’m currently learning HTML5 CSS3 Javascrip.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my email is paulohenriquefree@gmail.com. My Phone/Whatsapp: +55 11 9333-77150
-
-<div>
+<div align="center">
   <a href="https://github.com/pauloVarelo">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=pauloVarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloVarelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Paulo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
