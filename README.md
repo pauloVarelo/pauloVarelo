@@ -18,8 +18,8 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Paulo-pic" height="150" style="border-radius:100px;"
- src="https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_800_800/0/1627613843146?e=1664409600&v=beta&t=xdiSoKtpfaKImoKaibwikzFpJQPAx14M1ouPASUOuXA">
+  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHI7wkzohFIsQ/profile-displayphoto-shrink_800_800/0/1627613843146?e=1664409600&v=beta&t=xdiSoKtpfaKImoKaibwikzFpJQPAx14M1ouPASUOuXA">
+  </div>
  
    ##
  
