@@ -1,6 +1,11 @@
 ## Hello! I'am Paulo Varelo, Developer Full-Stack!
 
-
+<div align="center">
+  <a href="https://github.com/pauloVarelo">
+  <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=pauloVarelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloVarelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
