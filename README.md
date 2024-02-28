@@ -1,4 +1,4 @@
-## Hello! I'am Paulo Varelo, Developer Full-Stack!
+## Hello! I'am Paulo Varelo, Developer and Ethical Hacker!
 
 
   <div align="center">
