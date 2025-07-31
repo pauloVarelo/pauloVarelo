@@ -1,5 +1,6 @@
 ## Hello! I'am Paulo Varelo, Developer and Ethical Hacker!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
   <div align="center">
   <a href="https://github.com/pauloVarelo">
